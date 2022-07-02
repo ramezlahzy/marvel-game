@@ -1,0 +1,16 @@
+-Dfile.encoding=Cp1252 -XX:+ShowCodeDetailsInExceptionMessages controller.Control
+
+Host: Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz, 12 cores, 15G,  Windows 10 , 64 bit Build 19041 (10.0.19041.1706)
+Time: Sat May 28 15:21:50 2022 Egypt Standard Time elapsed time: 51814.117024 seconds (0d 14h 23m 34s)
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x0000022d6087aaa0):  JavaThread "C2 CompilerThread0" daemon [_thread_in_native, id=32668, stack(0x00000093cdf00000,0x00000093ce000000)]
+
+
+Current CompileTask:
+C2:51814118 1932       4      getScaleInstance
+
+
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+V  [jvm.dll+0x6681ca]

@@ -1,0 +1,31 @@
+Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz, 12 cores, 15G,  Windows 10 , 64 bit Build 19041 (10.0.19041.1706)
+Time: Sat May 28 15:21:50 2022 Egypt Standard Time elapsed time: 15952.561974 seconds (0d 4h 25m 52s)
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x00000216b5063b10):  JavaThread "C2 CompilerThread0" daemon [_thread_in_native, id=20588, stack(0x0000004176d00000,0x0000004176e00000)]
+
+
+Current CompileTask:
+C2:15952562 2112       4       java.util.HashMap$HashIterator::nextNode (100 bytes)
+
+Stack: [0x0000004176d00000,0x0000004176e00000]
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+V  [jvm.dll+0x6681ca]
+V  [jvm.dll+0x7c9e69]
+V  [jvm.dll+0x7cb61e]
+V  [jvm.dll+0x7cbc73]
+V  [jvm.dll+0x242c55]
+V  [jvm.dll+0xae10f]
+V  [jvm.dll+0xae45c]
+V  [jvm.dll+0xadfcb]
+V  [jvm.dll+0x6474f8]
+V  [jvm.dll+0x573887]
+V  [jvm.dll+0x21e48e]
+V  [jvm.dll+0x21775f]
+V  [jvm.dll+0x214ffc]
+V  [jvm.dll+0x1a1beb]
+V  [jvm.dll+0x225158]
+V  [jvm.dll+0x22319c]
+V  [jvm.dll+0x77fa62]
+V  [jvm.dll+0x7795aa]
